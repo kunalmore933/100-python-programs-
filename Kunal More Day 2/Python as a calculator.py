@@ -1,0 +1,6 @@
+print(2+3)
+print(25-32)
+print(13*5)
+print(23/8)
+print(2**2)
+print((2+8)*2)
