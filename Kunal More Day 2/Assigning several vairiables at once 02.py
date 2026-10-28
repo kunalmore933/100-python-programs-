@@ -1,2 +1,2 @@
-width, height = 4,7
+width, height = ,7
 print(width , height )
